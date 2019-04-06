@@ -1,7 +1,7 @@
 #!/bin/python3
 
-def sol(i, n):
-    print('Case #%d: %d %d' % (i, 0, 0))
+def sol(t, n):
+    print('Case #%d: %d %d' % (t, 0, 0))
     return
 
 if __name__ == '__main__':
